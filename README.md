@@ -24,7 +24,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 [screenshot-4](./screenshots/image4.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/simple-ommlete-recipe-semantics-m5pZ0_Ivl6)
 - Live Site URL: (https://firefly198.github.io/Simple-Ommlete-Recipe/)
 
 ## My process
